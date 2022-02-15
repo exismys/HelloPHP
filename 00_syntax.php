@@ -7,7 +7,13 @@
 </head>
 <body>
 <?php
-    echo "Hello World!"
+    echo "Hello World!";
+    echo " and Hello Exismys!";
+?>
+
+<?php
+    echo "<br>";
+    echo "Hello from another tag";
 ?>
 </body>
 </html>
